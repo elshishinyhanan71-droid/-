@@ -1,0 +1,8 @@
+{
+  "name": "Remix دليل المنوفية | Menoufia Guide",
+  "description": "بوابة الخدمات ودليل محافظة المنوفية الشامل التجريبي - خدمات المواطنين، المراكز التكنولوجية، الطوارئ، والاستعلامات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
